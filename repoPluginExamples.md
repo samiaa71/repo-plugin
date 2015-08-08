@@ -1,0 +1,16 @@
+#Examples of the repo-plugin .
+
+# Examples #
+
+To include a syntax highlighted of the latest code in a repository simply use the following wiki syntax:
+
+{{repo>http://captiveimagination.com/svn/public/cigame/trunk/spinController.js}}
+
+Check out the plugin in action, in the links below.
+
+# Live repo-plugin Sites #
+
+Add your content here.  Format your content with:
+  * [Article Describing a scripting framework for the 3D Java Monkey Engine](http://eventhorizongames.com/wiki/doku.php?id=articles:jmonkey_engine_scripting)
+  * [Java base RPAL language Abstract Syntax Tree Generator](http://eventhorizongames.com/wiki/doku.php?id=articles:programming_language_principles_ncsc_6121:rpal_java:start)
+

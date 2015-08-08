@@ -1,0 +1,1 @@
+The Repository Plugin for DokuWiki displays the folder structure and source code files of a Subversion repository at Google Code in a neat way within DokuWiki (with GesHi syntax highlighting).
